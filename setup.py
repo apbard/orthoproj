@@ -12,7 +12,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
     name='orthoproj',
     packages=['orthoproj'],
-    version='0.0.1',
+    version='0.0.2',
     description='Python package to create an Orthogonal Projection of 3D '
                 'data with full axes synchronisation',
     long_description=long_description,
