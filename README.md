@@ -21,6 +21,6 @@ The following picture (taken from larapedia.com) show an example:
 * Blocking/Non Blocking show
 
 ### Documentation/Example 
-See [orthoproj_demo.py](https://github.com/apbard/orthoproj/blob/master/example/orthoproj_demo.py) to see an example that will produce the following plot:
+See [orthoproj_demo.py](https://github.com/apbard/orthoproj/blob/master/examples/orthoproj_demo.py) to see an example that will produce the following plot:
 
 ![example](https://cloud.githubusercontent.com/assets/12557177/15484323/c9fd5adc-2139-11e6-81ae-0f400952de62.png)
